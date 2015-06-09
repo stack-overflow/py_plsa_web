@@ -1,0 +1,3 @@
+[submodule "web_crawler"]
+	path = web_crawler
+	url = git@github.com:stack-overflow/web_crawler.git
